@@ -1,0 +1,4 @@
+welcomse
+This is the gsecond update to the same file but commited still 
+This is the new line added kafter moving the file to the staging area/ Now git should show it is modified instaed of detecting it as a new file
+file in statging area
