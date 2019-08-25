@@ -1,3 +1,6 @@
 hi hi hi hi file4
 hello my new line
 Hello, This is from Nandagopal. Please accept by pull request. It will add value to your project.
+I am doing the line 
+We see you next week
+I am editing the file after adding in staging area
