@@ -1,0 +1,4 @@
+This is file6.txt. I am modifying the first line in it.
+This is next lne that I am editing now
+Now the file is moved to tracking mode... This line may be removed. Yes right
+line added for new chnage detection
